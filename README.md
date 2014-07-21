@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-My first app
+My first app for Github platform
